@@ -1,0 +1,8 @@
+__pycache_/
+*.py[cod]
+.env
+venv/
+.idea/vcs.xml
+# SQLite database files
+.pharmaforum/
+*.sqlite3
